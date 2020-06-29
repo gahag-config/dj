@@ -1,0 +1,3 @@
+* Output
+  - Master :: channels 1-2
+  - Headphones :: channels 3-4
